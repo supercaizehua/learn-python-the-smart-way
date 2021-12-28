@@ -34,6 +34,7 @@
 2. 本地下载安装 jupyter notebook 运行 ipynb 文件，安装使用方法参考：https://www.jianshu.com/p/91365f343585/
 3. 在和鲸社区 https://www.heywhale.com 创建项目，上传 .ipynb 文件可在线运行
 4. 在 Google Colab 上传 .ipynb 在线运行 （需要科学上网）
+5. 在 亚马逊的Sagemaker https://studiolab.sagemaker.aws 上创建项目, 上传 .ipynb 在线运行 (免费, 申请注册制, 目前申请通过时间约 1-2 天)
 
 ## 联系方式
 知乎 @小雨姑娘
